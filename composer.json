@@ -1,6 +1,11 @@
 {
     "name": "brokeyourbike/enum-validation",
     "description": "PHP 8.1 enum validation rules for Laravel",
+    "keywords": [
+        "brokeyourbike",
+        "laravel",
+        "validation"
+    ],
     "type": "library",
     "license": "MPL-2.0",
     "autoload": {
