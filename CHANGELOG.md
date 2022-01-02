@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.1.1](https://www.github.com/brokeyourbike/enum-validation-laravel/compare/v0.1.0...v0.1.1) (2022-01-02)
+
+
+### Miscellaneous Chores
+
+* add keywords ([afd5124](https://www.github.com/brokeyourbike/enum-validation-laravel/commit/afd5124271f29c7f3c914a59aa09f05af42d906a))
+* update title ([81be223](https://www.github.com/brokeyourbike/enum-validation-laravel/commit/81be2237aae6950020737f52cddc72d48c42ef0a))
+
 ## 0.1.0 (2022-01-02)
 
 
