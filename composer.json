@@ -1,0 +1,33 @@
+{
+    "name": "brokeyourbike/enum-validation",
+    "description": "PHP 8.1 enum validation rules for Laravel",
+    "type": "library",
+    "license": "MPL-2.0",
+    "autoload": {
+        "psr-4": {
+            "BrokeYourBike\\EnumValidation\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "BrokeYourBike\\EnumValidation\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan Stasiuk",
+            "email": "ivan@stasi.uk",
+            "homepage": "https://stasi.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.1",
+        "illuminate/contracts": "^8"
+    },
+    "require-dev": {
+        "bamarni/composer-bin-plugin": "^1.4",
+        "phpunit/phpunit": "^9.5",
+        "orchestra/testbench": "^6.21"
+    }
+}
