@@ -23,7 +23,7 @@ use Illuminate\Foundation\Http\FormRequest;
 use BrokeYourBike\EnumValidation\IsValidEnum;
 
 enum DrinkEnum: string {
-    case VINE = 'vine';
+    case WINE = 'wine';
     case VODKA = 'vodka';
 }
 

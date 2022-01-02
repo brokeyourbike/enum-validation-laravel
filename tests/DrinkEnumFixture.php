@@ -12,6 +12,6 @@ namespace BrokeYourBike\EnumValidation\Tests;
  * @author Ivan Stasiuk <ivan@stasi.uk>
  */
 enum DrinkEnumFixture: string {
-    case VINE = 'vine';
+    case WINE = 'wine';
     case VODKA = 'vodka';
 }
