@@ -1,4 +1,4 @@
-# country-validation-laravel
+# enum-validation
 
 [![Latest Stable Version](https://img.shields.io/github/v/release/brokeyourbike/enum-validation)](https://github.com/brokeyourbike/enum-validation-laravel/releases)
 [![Total Downloads](https://poser.pugx.org/brokeyourbike/enum-validation/downloads)](https://packagist.org/packages/brokeyourbike/enum-validation)
