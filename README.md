@@ -1,6 +1,6 @@
 # enum-validation
 
-[![Latest Stable Version](https://img.shields.io/github/v/release/brokeyourbike/enum-validation)](https://github.com/brokeyourbike/enum-validation-laravel/releases)
+[![Latest Stable Version](https://img.shields.io/github/v/release/brokeyourbike/enum-validation-laravel)](https://github.com/brokeyourbike/enum-validation-laravel/releases)
 [![Total Downloads](https://poser.pugx.org/brokeyourbike/enum-validation/downloads)](https://packagist.org/packages/brokeyourbike/enum-validation)
 [![License: MPL-2.0](https://img.shields.io/badge/license-MPL--2.0-purple.svg)](https://github.com/brokeyourbike/enum-validation-laravel/blob/main/LICENSE)
 
