@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.2](https://www.github.com/brokeyourbike/enum-validation-laravel/compare/v0.1.1...v0.1.2) (2022-01-03)
+
+
+### Miscellaneous Chores
+
+* fix badge ([d4e18d7](https://www.github.com/brokeyourbike/enum-validation-laravel/commit/d4e18d765009eb36b6e178ef7a75ef6193b3d78e))
+
 ### [0.1.1](https://www.github.com/brokeyourbike/enum-validation-laravel/compare/v0.1.0...v0.1.1) (2022-01-02)
 
 
