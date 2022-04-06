@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.3](https://www.github.com/brokeyourbike/enum-validation-laravel/compare/v0.1.2...v0.1.3) (2022-04-06)
+
+
+### Bug Fixes
+
+* allow to use with laravel 9 ([a2e3899](https://www.github.com/brokeyourbike/enum-validation-laravel/commit/a2e38997db21d05b6041aa4ec50bbe865dfc8dc8))
+
 ### [0.1.2](https://www.github.com/brokeyourbike/enum-validation-laravel/compare/v0.1.1...v0.1.2) (2022-01-03)
 
 
