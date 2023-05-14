@@ -35,5 +35,10 @@
         "phpunit/phpunit": "^9.5",
         "orchestra/testbench": "^6.21"
     },
+    "config": {
+        "allow-plugins": {
+            "bamarni/composer-bin-plugin": true
+        }
+    },
     "version": "0.1.3"
 }
