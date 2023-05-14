@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.1.4](https://www.github.com/brokeyourbike/enum-validation-laravel/compare/v0.1.3...v0.1.4) (2023-05-14)
+
+
+### Miscellaneous Chores
+
+* allow bin ([7ca4273](https://www.github.com/brokeyourbike/enum-validation-laravel/commit/7ca427352d5377a1364785cadfd795100d00b313))
+* badges ([a919686](https://www.github.com/brokeyourbike/enum-validation-laravel/commit/a919686fa98d39ea99715693105d1a218fba6b6e))
+
 ### [0.1.3](https://www.github.com/brokeyourbike/enum-validation-laravel/compare/v0.1.2...v0.1.3) (2022-04-06)
 
 
