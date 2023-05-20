@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.5](https://www.github.com/brokeyourbike/enum-validation-laravel/compare/v0.1.4...v0.1.5) (2023-05-20)
+
+
+### Miscellaneous Chores
+
+* button ([0997082](https://www.github.com/brokeyourbike/enum-validation-laravel/commit/099708251bf2e5886634ca3005964cd50824938d))
+
 ### [0.1.4](https://www.github.com/brokeyourbike/enum-validation-laravel/compare/v0.1.3...v0.1.4) (2023-05-14)
 
 
